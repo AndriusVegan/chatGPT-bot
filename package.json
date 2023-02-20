@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.16",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -18,5 +19,10 @@
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.4",
     "typescript": "4.9.4"
-  }
+  },
+  "name": "chatgptbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AndriusVegan <lifecoachandy7@gmail.com>",
+  "license": "MIT"
 }
