@@ -44,4 +44,5 @@ export default async function handler(
     .add(message);
 
   res.status(200).json({ answer: message.text });
+  console.log(res);
 }
